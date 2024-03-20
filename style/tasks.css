@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #e2e4e6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.conteudo{
+    align-items: center;
+
+}
+
+footer{
+    padding: 0%;
+    text-align: center;
+    font-size: 10px;
+    background-color: rgb(0, 0, 0);
+
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+
+    left:0;
+    right: 0;
+}
+
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
